@@ -1,5 +1,5 @@
 /*
-Recomended to use elements:
+Recommended to use elements:
 
   * Text containers:
       <hr/>,
@@ -70,25 +70,25 @@ h3 {
   font-size: 3rem;
   font-weight: 500;
   margin: 0;
-  text-shadow: -3px 3px 9px rgba(148, 155, 141, 1);
+  text-shadow: -2px 2px 3px rgba(148, 155, 141, 0.43);
 }
 h4 {
   font-size: 2.5rem;
   font-weight: 400;
   margin: 0;
-  text-shadow: -3px 3px 3px rgba(148, 155, 141, 0.43);
+  text-shadow: -2px 2px 3px rgba(148, 155, 141, 0.43);
 }
 h5 {
   font-size: 2rem;
   font-weight: 300;
   margin: 0;
-  text-shadow: -3px 3px 3px rgba(148, 155, 141, 0.43);
+  text-shadow: -2px 2px 3px rgba(148, 155, 141, 0.43);
 }
 h6 {
   font-size: 1.5rem;
   font-weight: 200;
   margin: 0;
-  text-shadow: -3px 3px 3px rgba(148, 155, 141, 0.43);
+  text-shadow: -2px 2px 3px rgba(148, 155, 141, 0.43);
 }
 
 /* Dialog, modal, card */
